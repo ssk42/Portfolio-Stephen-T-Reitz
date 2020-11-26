@@ -1,11 +1,11 @@
 import React from "react"
  
-function NewComponent(props) {
+function Articles(props) {
   return (
     <div>
-      <h1>New Component</h1>
+      <h1>Articles</h1>
     </div>
   )
 }
  
-export default NewComponent;
+export default Articles;
